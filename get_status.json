@@ -1,0 +1,32 @@
+{
+  "status": "OK",
+  "patches": [
+    {
+      "respAlertStatus": "respHigh",
+      "hrAlertTime": -1,
+      "tempHigh": 38,
+      "recDuration": 0,
+      "duration": 4320,
+      "relayId": "YAM65",
+      "respLow": 6,
+      "alertResp": 15,
+      "hrAlertStatus": "norm",
+      "alertTime": -1,
+      "alertHr": -1,
+      "hrhigh": 120,
+      "respHigh": 12,
+      "tempLow": 34,
+      "patchId": "YAM65",
+      "scanInterval": 15,
+      "tempAlertStatus": "tempLow",
+      "hrlow": 40,
+      "patchStatus": "Streaming",
+      "tempAlertTime": 1586430105292,
+      "alertTemp": 27.2,
+      "stTime": 1586413844,
+      "respAlertTime": 1586432948694,
+      "alertStatus": "norm"
+    }
+  ],
+  "response": "getStatus"
+}
