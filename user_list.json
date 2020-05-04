@@ -1,0 +1,57 @@
+{
+    "result": "success",
+    "data": [
+        {
+            "uid": "1",
+            "user": "admin",
+            "fullname": null,
+            "company": null,
+            "designation": null,
+            "login_status": "1",
+            "login_time": null,
+            "user_level": "1",
+            "level_name": "Admin",
+            "rep_to": null,
+            "staffid": null
+        },
+        {
+            "uid": "2",
+            "user": "asika",
+            "fullname": null,
+            "company": null,
+            "designation": null,
+            "login_status": "1",
+            "login_time": null,
+            "user_level": "2",
+            "level_name": "Supervisor",
+            "rep_to": "admin",
+            "staffid": null
+        },
+        {
+            "uid": "3",
+            "user": "saurav",
+            "fullname": null,
+            "company": null,
+            "designation": null,
+            "login_status": "0",
+            "login_time": null,
+            "user_level": "3",
+            "level_name": "User",
+            "rep_to": "asika",
+            "staffid": null
+        },
+        {
+            "uid": "5",
+            "user": "lalitha",
+            "fullname": "lalitha",
+            "company": "test",
+            "designation": "test",
+            "login_status": "0",
+            "login_time": null,
+            "user_level": "2",
+            "level_name": "Supervisor",
+            "rep_to": "admin",
+            "staffid": "12312"
+        }
+    ]
+}
